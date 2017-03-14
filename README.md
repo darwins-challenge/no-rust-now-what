@@ -14,10 +14,6 @@ Unfortunatly, sometimes you just can't install Rust. What ever the reason,
 whether it is the conference WiFi or you do not want to commit just yet, keep on
 reading. Maybe we can provide an other option.
 
-<<<<<<< HEAD
-[rust]: https://www.rust-lang.org/en-US/
-[install-rust]: https://www.rust-lang.org/en-US/install.html
-=======
 ## Docker
 This repository contains a docker image that can be [loaded][docker-load] into
 docker with the following commands.
@@ -46,4 +42,3 @@ machine and import it in VirtualBox.
 [docker-load]: https://docs.docker.com/engine/reference/commandline/load/
 [scorpil/rust]: https://hub.docker.com/r/scorpil/rust/
 [virtualbox]: https://www.virtualbox.org
->>>>>>> 450f968... Describe the VirtualBox option
